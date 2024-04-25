@@ -12,6 +12,10 @@ format:
   docx: default
   jats: default
   agu-pdf: default
+  plos-pdf: default
+  elsevier-pdf: default
+  arxiv-pdf: default
+  nature-pdf: default
 
 
 
