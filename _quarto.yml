@@ -11,11 +11,10 @@ format:
       hypothesis: true
   docx: default
   jats: default
-  agu-pdf: default
-  plos-pdf: default
-  elsevier-pdf: default
   arxiv-pdf: default
-  nature-pdf: default
+  # you cannot have multiple pdfs at once apparently when try and render
+  #nature-pdf: default
+
 
 
 
